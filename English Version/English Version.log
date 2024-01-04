@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  4 JAN 2024 11:18
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  4 JAN 2024 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1300,16 +1300,11 @@ File: images/Seal_1.png Graphic file (type bmp)
 ]
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 59.
-
-Underfull \hbox (badness 2512) in paragraph at lines 59--59
-\TU/OpenSans(0)/m/it/10.95 gressivement de plus en plus
- []
-
 File: images/Machine_Learning.jpg Graphic file (type bmp)
 <images/Machine_Learning.jpg>
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
-[10
+ [10
 
 ]
 \openout4 = `"English Version.vrb"'.
@@ -1319,13 +1314,13 @@ File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
  [11
 
-] (./English Version.vrb)
+]
+(./English Version.vrb)
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
  [12
 
-]
-(./English Version.vrb)
+] (./English Version.vrb)
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
  [13
@@ -1333,7 +1328,8 @@ File: images/Seal_1.png Graphic file (type bmp)
 ]
 \openout4 = `"English Version.vrb"'.
 
- (./English Version.vrb
+
+(./English Version.vrb
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 5.
 )
@@ -1344,8 +1340,7 @@ File: images/Seal_1.png Graphic file (type bmp)
 ]
 \openout4 = `"English Version.vrb"'.
 
-
-(./English Version.vrb
+ (./English Version.vrb
 File: images/deep_learning_0.png Graphic file (type bmp)
 <images/deep_learning_0.png>
 )
@@ -1462,7 +1457,7 @@ Package rerunfilecheck Info: File `"English Version".out' has not changed.
 Here is how much of TeX's memory you used:
  28915 strings out of 476683
  625326 string characters out of 5804048
- 1851018 words of memory out of 5000000
+ 1850018 words of memory out of 5000000
  48524 multiletter control sequences out of 15000+600000
  517583 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
