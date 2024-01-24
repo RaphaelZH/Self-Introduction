@@ -1,20 +1,20 @@
 \frametitle{My offline learning practices (6)}
 \begin{figure}[!htb]
-^^I^^I\vspace{-.25em}
-^^I^^I\minipage{0.2\textwidth}
-^^I^^I\endminipage\hfill
-^^I^^I\minipage{0.4\textwidth}
-^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_6_1_1.png}
-^^I^^I%\caption{A really Awesome Image}\label{fig:awesome_image2}
-^^I^^I\endminipage\hfill
-^^I^^I\minipage{0.4\textwidth}%
-^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_6_1_2.png}
-^^I^^I%\caption{A really Awesome Image}\label{fig:awesome_image3}
-^^I^^I\endminipage\hfill
-^^I^^I\vspace{.2em}
-^^I^^I\begin{columns}
-^^I^^I^^I\column{0.05\textwidth}
-^^I^^I^^I\column{0.95\textwidth}
-^^I^^I^^I\normalfont\footnotesize{https://github.com/RaphaelZH/Udemy\_Data\_Science\_Courses\_Learning\_Outcomes\_EN/}
-^^I^^I\end{columns}
-^^I\end{figure}
+^^I^^I^^I\vspace{-.25em}
+^^I^^I^^I\minipage{0.2\textwidth}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.4\textwidth}
+^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_6_1_1.png}
+^^I^^I^^I%\caption{A really Awesome Image}\label{fig:awesome_image2}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.4\textwidth}%
+^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_6_1_2.png}
+^^I^^I^^I%\caption{A really Awesome Image}\label{fig:awesome_image3}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\vspace{.2em}
+^^I^^I^^I\begin{columns}
+^^I^^I^^I^^I\column{0.05\textwidth}
+^^I^^I^^I^^I\column{0.95\textwidth}
+^^I^^I^^I^^I\normalfont\footnotesize{https://github.com/RaphaelZH/Udemy\_Data\_Science\_Courses\_Learning\_Outcomes\_EN/}
+^^I^^I^^I\end{columns}
+^^I^^I\end{figure}

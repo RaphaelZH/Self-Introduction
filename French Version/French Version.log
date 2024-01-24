@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  4 JAN 2024 13:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  24 JAN 2024 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1348,7 +1348,7 @@ File: images/Seal_1.png Graphic file (type bmp)
 File: images/deep_learning_0.png Graphic file (type bmp)
 <images/deep_learning_0.png>
 )
-Overfull \vbox (3.97382pt too high) detected at line 93
+Overfull \vbox (8.08124pt too high) detected at line 97
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1366,7 +1366,7 @@ File: images/deep_learning_2.png Graphic file (type bmp)
 File: images/deep_learning_3.png Graphic file (type bmp)
 <images/deep_learning_3.png>
 )
-Overfull \vbox (4.19637pt too high) detected at line 116
+Overfull \vbox (4.19637pt too high) detected at line 120
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1382,7 +1382,7 @@ File: images/deep_learning_4_1.png Graphic file (type bmp)
 File: images/deep_learning_4_2.png Graphic file (type bmp)
 <images/deep_learning_4_2.png>
 )
-Overfull \vbox (8.77754pt too high) detected at line 135
+Overfull \vbox (7.07648pt too high) detected at line 139
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1396,7 +1396,7 @@ File: images/Seal_1.png Graphic file (type bmp)
 File: images/dicom.png Graphic file (type bmp)
 <images/dicom.png>
 )
-Overfull \vbox (5.93405pt too high) detected at line 149
+Overfull \vbox (5.93405pt too high) detected at line 153
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1414,7 +1414,7 @@ File: images/deep_learning_5_1_2.png Graphic file (type bmp)
 File: images/deep_learning_5_2.png Graphic file (type bmp)
 <images/deep_learning_5_2.png>
 )
-Overfull \vbox (7.11218pt too high) detected at line 173
+Overfull \vbox (7.11218pt too high) detected at line 177
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1430,7 +1430,7 @@ File: images/deep_learning_6_1_1.png Graphic file (type bmp)
 File: images/deep_learning_6_1_2.png Graphic file (type bmp)
 <images/deep_learning_6_1_2.png>
 )
-Overfull \vbox (7.76643pt too high) detected at line 195
+Overfull \vbox (7.76643pt too high) detected at line 199
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1439,7 +1439,7 @@ File: images/Seal_1.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 197.
+(Font)              scaled to size 18.66588pt on input line 201.
 File: images/Seal_2.png Graphic file (type bmp)
 <images/Seal_2.png>
  [21
