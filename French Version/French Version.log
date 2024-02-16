@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  15 FEB 2024 23:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  16 FEB 2024 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1390,10 +1390,14 @@ File: images/Seal_1.png Graphic file (type bmp)
 \openout4 = `"French Version.vrb"'.
 
  (./French Version.vrb
-File: images/dicom.png Graphic file (type bmp)
-<images/dicom.png>
+File: images/deep_learning_5_1_1.png Graphic file (type bmp)
+<images/deep_learning_5_1_1.png>
+File: images/deep_learning_5_1_2.png Graphic file (type bmp)
+<images/deep_learning_5_1_2.png>
+File: images/deep_learning_5_2.png Graphic file (type bmp)
+<images/deep_learning_5_2.png>
 )
-Overfull \vbox (5.93405pt too high) detected at line 155
+Overfull \vbox (7.11218pt too high) detected at line 165
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1404,14 +1408,12 @@ File: images/Seal_1.png Graphic file (type bmp)
 \openout4 = `"French Version.vrb"'.
 
  (./French Version.vrb
-File: images/deep_learning_5_1_1.png Graphic file (type bmp)
-<images/deep_learning_5_1_1.png>
-File: images/deep_learning_5_1_2.png Graphic file (type bmp)
-<images/deep_learning_5_1_2.png>
-File: images/deep_learning_5_2.png Graphic file (type bmp)
-<images/deep_learning_5_2.png>
+File: images/deep_learning_6_1.png Graphic file (type bmp)
+<images/deep_learning_6_1.png>
+File: images/deep_learning_6_2.png Graphic file (type bmp)
+<images/deep_learning_6_2.png>
 )
-Overfull \vbox (7.11218pt too high) detected at line 179
+Overfull \vbox (7.20082pt too high) detected at line 187
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1422,21 +1424,22 @@ File: images/Seal_1.png Graphic file (type bmp)
 \openout4 = `"French Version.vrb"'.
 
  (./French Version.vrb
-File: images/deep_learning_6_1_1.png Graphic file (type bmp)
-<images/deep_learning_6_1_1.png>
-File: images/deep_learning_6_1_2.png Graphic file (type bmp)
-<images/deep_learning_6_1_2.png>
+File: images/deep_learning_7_1.png.png Graphic file (type bmp)
+<images/deep_learning_7_1.png.png>
+File: images/deep_learning_7_2.png Graphic file (type bmp)
+<images/deep_learning_7_2.png>
+File: images/deep_learning_7_3.png Graphic file (type bmp)
+<images/deep_learning_7_3.png>
+File: images/deep_learning_7_4.png Graphic file (type bmp)
+<images/deep_learning_7_4.png>
 )
-Overfull \vbox (7.76643pt too high) detected at line 201
- []
-
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
-[20
+ [20
 
 ]
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 203.
+(Font)              scaled to size 18.66588pt on input line 223.
 File: images/Seal_2.png Graphic file (type bmp)
 <images/Seal_2.png>
  [21
@@ -1456,10 +1459,10 @@ Package rerunfilecheck Info: File `"French Version".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 28915 strings out of 476683
- 625301 string characters out of 5804048
+ 28953 strings out of 476683
+ 626548 string characters out of 5804048
  1851018 words of memory out of 5000000
- 48524 multiletter control sequences out of 15000+600000
+ 48555 multiletter control sequences out of 15000+600000
  517583 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,13n,122p,443b,857s stack positions out of 10000i,1000n,20000p,200000b,200000s
