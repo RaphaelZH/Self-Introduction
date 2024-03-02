@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  16 FEB 2024 13:39
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  2 MAR 2024 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,8 +1215,8 @@ LaTeX Font Info:    Font shape `TU/OpenSans(0)/b/n' will be
 (Font)              scaled to size 8.09995pt on input line 24.
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
 (Font)              scaled to size 8.09995pt on input line 24.
-File: images/Network_Data_Science_and_AI.jpg Graphic file (type bmp)
-<images/Network_Data_Science_and_AI.jpg>
+File: images/About_Me.jpg Graphic file (type bmp)
+<images/About_Me.jpg>
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
 (Font)              scaled to size 3.59998pt on input line 24.
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1305,8 +1305,8 @@ Underfull \hbox (badness 2512) in paragraph at lines 59--59
 \TU/OpenSans(0)/m/it/10.95 gressivement de plus en plus
  []
 
-File: images/Machine_Learning.jpg Graphic file (type bmp)
-<images/Machine_Learning.jpg>
+File: images/Data_Lover.jpg Graphic file (type bmp)
+<images/Data_Lover.jpg>
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
 [10
@@ -1460,7 +1460,7 @@ Package rerunfilecheck Info: File `"French Version".out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28953 strings out of 476683
- 626548 string characters out of 5804048
+ 626342 string characters out of 5804048
  1851018 words of memory out of 5000000
  48555 multiletter control sequences out of 15000+600000
  517583 words of font info for 87 fonts, out of 8000000 for 9000
