@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  24 JAN 2024 23:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.8)  6 MAY 2024 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,8 +1215,8 @@ LaTeX Font Info:    Font shape `TU/OpenSans(0)/b/n' will be
 (Font)              scaled to size 8.09995pt on input line 24.
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
 (Font)              scaled to size 8.09995pt on input line 24.
-File: images/Network_Data_Science_and_AI.jpg Graphic file (type bmp)
-<images/Network_Data_Science_and_AI.jpg>
+File: images/About_Me.jpg Graphic file (type bmp)
+<images/About_Me.jpg>
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
 (Font)              scaled to size 3.59998pt on input line 24.
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1300,8 +1300,8 @@ File: images/Seal_1.png Graphic file (type bmp)
 ]
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 59.
-File: images/Machine_Learning.jpg Graphic file (type bmp)
-<images/Machine_Learning.jpg>
+File: images/Data_Lover.jpg Graphic file (type bmp)
+<images/Data_Lover.jpg>
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
  [10
@@ -1341,10 +1341,12 @@ File: images/Seal_1.png Graphic file (type bmp)
 \openout4 = `"English Version.vrb"'.
 
  (./English Version.vrb
-File: images/deep_learning_0.png Graphic file (type bmp)
-<images/deep_learning_0.png>
+File: images/deep_learning_1.png Graphic file (type bmp)
+<images/deep_learning_1.png>
+File: images/deep_learning_2.png Graphic file (type bmp)
+<images/deep_learning_2.png>
 )
-Overfull \vbox (8.08124pt too high) detected at line 97
+Overfull \vbox (4.29582pt too high) detected at line 103
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1355,19 +1357,14 @@ File: images/Seal_1.png Graphic file (type bmp)
 \openout4 = `"English Version.vrb"'.
 
  (./English Version.vrb
-File: images/deep_learning_1.png Graphic file (type bmp)
-<images/deep_learning_1.png>
-File: images/deep_learning_2.png Graphic file (type bmp)
-<images/deep_learning_2.png>
-File: images/deep_learning_3.png Graphic file (type bmp)
-<images/deep_learning_3.png>
+File: images/deep_learning_3_1.png Graphic file (type bmp)
+<images/deep_learning_3_1.png>
+File: images/deep_learning_3_2.png Graphic file (type bmp)
+<images/deep_learning_3_2.png>
 )
-Overfull \vbox (4.19637pt too high) detected at line 120
- []
-
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
-[16
+ [16
 
 ]
 \openout4 = `"English Version.vrb"'.
@@ -1378,26 +1375,12 @@ File: images/deep_learning_4_1.png Graphic file (type bmp)
 File: images/deep_learning_4_2.png Graphic file (type bmp)
 <images/deep_learning_4_2.png>
 )
-Overfull \vbox (7.07648pt too high) detected at line 139
+Overfull \vbox (7.07648pt too high) detected at line 141
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
 [17
-
-]
-\openout4 = `"English Version.vrb"'.
-
- (./English Version.vrb
-File: images/dicom.png Graphic file (type bmp)
-<images/dicom.png>
-)
-Overfull \vbox (5.93405pt too high) detected at line 153
- []
-
-File: images/Seal_1.png Graphic file (type bmp)
-<images/Seal_1.png>
-[18
 
 ]
 \openout4 = `"English Version.vrb"'.
@@ -1410,7 +1393,23 @@ File: images/deep_learning_5_1_2.png Graphic file (type bmp)
 File: images/deep_learning_5_2.png Graphic file (type bmp)
 <images/deep_learning_5_2.png>
 )
-Overfull \vbox (7.11218pt too high) detected at line 177
+Overfull \vbox (7.11218pt too high) detected at line 165
+ []
+
+File: images/Seal_1.png Graphic file (type bmp)
+<images/Seal_1.png>
+[18
+
+]
+\openout4 = `"English Version.vrb"'.
+
+ (./English Version.vrb
+File: images/deep_learning_6_1.png Graphic file (type bmp)
+<images/deep_learning_6_1.png>
+File: images/deep_learning_6_2.png Graphic file (type bmp)
+<images/deep_learning_6_2.png>
+)
+Overfull \vbox (7.20082pt too high) detected at line 187
  []
 
 File: images/Seal_1.png Graphic file (type bmp)
@@ -1421,21 +1420,22 @@ File: images/Seal_1.png Graphic file (type bmp)
 \openout4 = `"English Version.vrb"'.
 
  (./English Version.vrb
-File: images/deep_learning_6_1_1.png Graphic file (type bmp)
-<images/deep_learning_6_1_1.png>
-File: images/deep_learning_6_1_2.png Graphic file (type bmp)
-<images/deep_learning_6_1_2.png>
+File: images/deep_learning_7_1.png.png Graphic file (type bmp)
+<images/deep_learning_7_1.png.png>
+File: images/deep_learning_7_2.png Graphic file (type bmp)
+<images/deep_learning_7_2.png>
+File: images/deep_learning_7_3.png Graphic file (type bmp)
+<images/deep_learning_7_3.png>
+File: images/deep_learning_7_4.png Graphic file (type bmp)
+<images/deep_learning_7_4.png>
 )
-Overfull \vbox (7.76643pt too high) detected at line 199
- []
-
 File: images/Seal_1.png Graphic file (type bmp)
 <images/Seal_1.png>
-[20
+ [20
 
 ]
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 201.
+(Font)              scaled to size 18.66588pt on input line 223.
 File: images/Seal_2.png Graphic file (type bmp)
 <images/Seal_2.png>
  [21
@@ -1455,10 +1455,10 @@ Package rerunfilecheck Info: File `"English Version".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 28915 strings out of 476683
- 625326 string characters out of 5804048
+ 28953 strings out of 476683
+ 626397 string characters out of 5804048
  1850018 words of memory out of 5000000
- 48524 multiletter control sequences out of 15000+600000
+ 48555 multiletter control sequences out of 15000+600000
  517583 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,13n,122p,444b,857s stack positions out of 10000i,1000n,20000p,200000b,200000s

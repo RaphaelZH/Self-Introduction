@@ -1,17 +1,29 @@
 \frametitle{My offline learning practices (6)}
 \begin{figure}[!htb]
 ^^I^^I^^I\vspace{-.25em}
-^^I^^I^^I\minipage{0.2\textwidth}
+^^I^^I^^I\minipage{0.0125\textwidth}
 ^^I^^I^^I\endminipage\hfill
-^^I^^I^^I\minipage{0.4\textwidth}
-^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_6_1_1.png}
+^^I^^I^^I\minipage{0.225\textwidth}
+^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_7_1.png}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.025\textwidth}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.225\textwidth}
+^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_7_2.png}
 ^^I^^I^^I%\caption{A really Awesome Image}\label{fig:awesome_image2}
 ^^I^^I^^I\endminipage\hfill
-^^I^^I^^I\minipage{0.4\textwidth}%
-^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_6_1_2.png}
+^^I^^I^^I\minipage{0.025\textwidth}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.225\textwidth}%
+^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_7_3.png}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.025\textwidth}
+^^I^^I^^I\endminipage\hfill
+^^I^^I^^I\minipage{0.225\textwidth}%
+^^I^^I^^I\centering\includegraphics[width=\linewidth]{images/deep_learning_7_4.png}
 ^^I^^I^^I%\caption{A really Awesome Image}\label{fig:awesome_image3}
 ^^I^^I^^I\endminipage\hfill
-^^I^^I^^I\vspace{.2em}
+^^I^^I^^I\vspace{2em}
 ^^I^^I^^I\begin{columns}
 ^^I^^I^^I^^I\column{0.05\textwidth}
 ^^I^^I^^I^^I\column{0.95\textwidth}
